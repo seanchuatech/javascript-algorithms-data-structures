@@ -28,3 +28,12 @@ Solve more problems
 -Finding permutations and combinations of a list of numbers
 -Finding the longest common substring in a given string
 -Knapsack problem
+
+-----
+Further Learning 
+Priority queue
+Circular linked lists
+AVL trees, red black trees and tries
+Drected acyclic graphs
+Prim's, Kruskal's and Floyd's algorithms
+Solve problems that utilize these data structures
